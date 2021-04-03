@@ -1,4 +1,4 @@
-# ✨Hi there! 👋 My name is Carolina but my mom called me Qarola. 😁
+# ✨Hi there! 👋 My name is Carolina...or Qarola😁
 ```
 ✨ I am an Agroindustrial Engineer with studies of postgraduate in Industrial Production and Occupational, 
 ✨ Health and Safety.  
