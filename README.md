@@ -1,9 +1,9 @@
 # ✨Hi there! 👋 My name is Carolina...or Qarola😁
 ```
-✨ I am an Agroindustrial Engineer with studies of postgraduate in Industrial Production and Occupational, 
-✨ Health and Safety.  
-✨
-✨ I am reinventing myself as a ✨✨✨ Full Stack Web Developer! ✨✨✨
+✨ I am reinventing professionally myself as a ✨✨✨ Full Stack Web Developer! ✨✨✨
+✨   
+✨ I am an Agroindustrial Engineer with studies postgraduate in Industrial Production and Occupational, Health and Safety.
+✨ 
 ✨ I discovered a wonderful world in web development. What I've learned so far:
 ✨
 ✨ 🤗 JavaScript
