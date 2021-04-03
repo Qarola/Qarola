@@ -1,6 +1,6 @@
 # ✨Hi there! 👋 My name is Carolina Altamiranda N. 😁
 ```
-✨ 🙋‍♀️ I am an Agroindustrial Engineer with studies of postgraduate in Industrial Production and Occupational, 
+✨ I am an Agroindustrial Engineer with studies of postgraduate in Industrial Production and Occupational, 
 ✨ Health and Safety.  
 ✨
 ✨ I am reinventing myself as a ✨✨✨ Full Stack Web Developer! ✨✨✨
@@ -24,7 +24,7 @@
 ✨ I like to learn new technology...🎉 I am studying English.💭 I'm learning to programing Python too 🐍. 
 ✨
 ✨
-✨ 🌞 To know more about me 🤩 on [LinkedIn] (https://www.linkedin.com/in/ing-carolina-altamiranda-n/?locale=es_ES)
+✨ 🌞 To know more about me 🤩 on [LinkedIn](https://www.linkedin.com/in/ing-carolina-altamiranda-n/?locale=es_ES)
 ✨
 ✨
 ✨ Thanks for reading me! 🙏
