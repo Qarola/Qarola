@@ -1,4 +1,4 @@
-# ✨Hi there! 👋 My name is Carolina Altamiranda N. 😁
+# ✨Hi there! 👋 My name is Carolina but my mom called me Qarola. 😁
 ```
 ✨ I am an Agroindustrial Engineer with studies of postgraduate in Industrial Production and Occupational, 
 ✨ Health and Safety.  
@@ -21,10 +21,11 @@
 ✨ I am an autodidact person 🎓 ,
 ✨ I learn quickly! 🚀 I have to ability to work independently too ⛅.
 ✨ I 💖 Coldplay's music! I like cooking 👩‍🍳 and I 💓 my family! 🎈
-✨ I like to learn new technology...🎉 I am studying English.💭 I'm learning to programing Python too 🐍. 
+✨ I like to learn new technology...🎉 I am studying English.💭(and so, excuse me... 😊) 
+✨ I'm learning to programing Python too 🐍. 
 ✨
 ✨
-✨ 🌞 To know more about me 🤩 on [LinkedIn](https://www.linkedin.com/in/ing-carolina-altamiranda-n/?locale=es_ES)
+✨ 🌞 To know more about me 🤩 on [LinkedIn](#https://www.linkedin.com/in/ing-carolina-altamiranda-n/?locale=es_ES)
 ✨
 ✨
 ✨ Thanks for reading me! 🙏
