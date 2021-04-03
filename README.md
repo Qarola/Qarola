@@ -21,7 +21,7 @@
 ✨ I am an autodidact person 🎓 ,
 ✨ I learn quickly! 🚀 I have to ability to work independently too ⛅.
 ✨ I 💖 Coldplay's music! I like cooking 👩‍🍳 and I 💓 my family! 🎈
-✨ I like to learn new technology...🎉 I am studying English.💭(and so, excuse me... 😊) 
+✨ I like to learn new technology...🎉 I am studying English.💭so, excuse me my English... 😊) 
 ✨ I'm learning to programing Python too 🐍. 
 ✨
 ✨
