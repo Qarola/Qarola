@@ -25,7 +25,7 @@
 ✨ I'm learning to programing Python too 🐍. 
 ✨
 ✨
-✨ 🌞 To know more about me 🤩 on ![LinkedIn](https://www.linkedin.com/in/ing-carolina-altamiranda-n/)
+✨ 🌞 To know more about me 🤩 on [LinkedIn](https://www.linkedin.com/in/ing-carolina-altamiranda-n/)
 ✨
 ✨
 ✨ Thanks for reading me! 🙏
