@@ -23,6 +23,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qarola)](https://github.com/Qarola/github-readme-stats)
 
 
+##
+
+[![Qarola's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Qarola)](https://github.com/Qarola/github-readme-stats)
+
+
+
 
 
 ##
