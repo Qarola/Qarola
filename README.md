@@ -26,7 +26,7 @@
 
 
 ##
-Made with heart and JavaScript.
+Made with ❤️ and JavaScript.
 
 
 
