@@ -12,6 +12,13 @@
 ![image](https://user-images.githubusercontent.com/67078790/117091680-b361f700-ad21-11eb-9a52-cbbf453d0836.png)
 ![image](https://user-images.githubusercontent.com/67078790/117091774-f1f7b180-ad21-11eb-9500-9497dd4c14d4.png)
 
+## I want to keep learning from other technologies!
+
+[![Qarola's github stats](https://github-readme-stats.vercel.app/api?username=Qarola&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Qarola/github-readme-stats)
+
+## 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qarola)](https://github.com/Qarola/github-readme-stats)
 
 
 
