@@ -11,7 +11,7 @@
 ![image](https://user-images.githubusercontent.com/67078790/117091674-acd37f80-ad21-11eb-8d59-26cc41799d95.png)
 ![image](https://user-images.githubusercontent.com/67078790/117091680-b361f700-ad21-11eb-9a52-cbbf453d0836.png)
 ![image](https://user-images.githubusercontent.com/67078790/117091774-f1f7b180-ad21-11eb-9500-9497dd4c14d4.png)
-![image](https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png)
+![image](https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png)
 
 ## I want to keep learning from other technologies!
 
