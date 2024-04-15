@@ -23,7 +23,7 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
  <br/>
-<code>	
+		
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" alt="NodeJS" title="NodeJS"/><img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" width="50" alt="Cypress" title="Cypress"/><img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="50" alt="Swagger" title="Swagger"/><img 
