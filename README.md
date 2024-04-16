@@ -1,10 +1,10 @@
 
 <div align="center">
 
- 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/67078790/117097894-866a1000-ad32-11eb-990e-909c526855d3.gif)
+ ![video-gif](https://github.com/Qarola/Qarola/assets/67078790/33bd188a-83e3-4a5e-9293-ee1fd10db27b)
 
 </div>
+
 
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
