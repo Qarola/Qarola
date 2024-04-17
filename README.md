@@ -1,7 +1,7 @@
 
 <div align="center">
 
- ![video-gif](https://github.com/Qarola/Qarola/assets/67078790/33bd188a-83e3-4a5e-9293-ee1fd10db27b)
+![video-definitivo-para-github-profile](https://github.com/Qarola/Qarola/assets/67078790/a2affae3-685a-4278-8f5f-bb8deda3d00c)
 
 </div>
 
