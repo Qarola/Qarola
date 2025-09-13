@@ -55,7 +55,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/co
 
 ## I want to keep learning from other technologies!
 
-[![Qarola's github stats](https://github-readme-stats.vercel.app/api?username=Qarola&count_private=true&show_icons=true&theme=radical&hide_rank=false&cache_seconds=1800&v=1)](https://github.com/Qarola/github-readme-stats)
+[![Qarola's github stats](https://github-readme-stats.vercel.app/api?username=Qarola&count_private=true&show_icons=true&theme=radical&hide_rank=false&cache_seconds=1800&v=1)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## 
